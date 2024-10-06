@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.grid {
+    height: 700px;
+    background-color: violet;
+}
+
+.cell {
+    background-color: grey;
+    height: 200px;
+    /* width: 400px; */
+    /* margin-bottom: 33px; */
+    /* justify-content: space-around; */
+    margin: 10px;
+    border: black 3px solid;
+}
+
+/* .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+} */
+
+/* .cell {
+    flex: 0 0 32%;
+    height: 200px;
+    width: 100px;
+    margin-bottom: 5px;
+    background-color: #999;
+} */
+
+#cell1,
+#cell2,
+#cell3,
+#cell4,
+#cell5,
+#cell6,
+#cell7,
+#cell8,
+#cell9 {
+    font-size: 150px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
